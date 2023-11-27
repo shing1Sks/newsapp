@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/newsapp/static/css/main.f855e6bc.css",
+    "main.js": "/newsapp/static/js/main.42dfb93b.js",
+    "static/js/787.6643f1c0.chunk.js": "/newsapp/static/js/787.6643f1c0.chunk.js",
+    "static/media/monkey-man-with-video-camera.jpg": "/newsapp/static/media/monkey-man-with-video-camera.2cc91e488bae4402b20e.jpg",
+    "static/media/spin.gif": "/newsapp/static/media/spin.c71b173f71c1d9d6ae73.gif",
+    "static/media/noimg.jpg": "/newsapp/static/media/noimg.b59890b7b479e863e07c.jpg",
+    "index.html": "/newsapp/index.html",
+    "main.f855e6bc.css.map": "/newsapp/static/css/main.f855e6bc.css.map",
+    "main.42dfb93b.js.map": "/newsapp/static/js/main.42dfb93b.js.map",
+    "787.6643f1c0.chunk.js.map": "/newsapp/static/js/787.6643f1c0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.42dfb93b.js"
+  ]
+}
